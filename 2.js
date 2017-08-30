@@ -1,3 +1,3 @@
 function getPerson2 (name, surname) {
-	return name + " " + surmane;
+	Return name + " " + surmane;
 }
